@@ -1,0 +1,238 @@
+{
+    "title": {
+        "media" : {
+            "url": "https://www.metal-am.com/wp-content/uploads/sites/4/2020/12/fig-01-copy-1024x630.jpg",
+            "caption" : "Your whirlwind tour of how we got from there to here",
+            "credit" : "Author Unknown"
+        }, 
+        "text" : {
+            "headline" : "A brief tour of the history of Machine Learning",
+            "text" : "The idea of thinking machines is not paritcularly new.  <br />But it has come a long way in it's time."
+        }
+    }, 
+    "events" :[
+        {
+            "media": {
+                "url" : "http://www.turingarchive.org/images/noflash/k7/4/k7.4.jpg",
+                "caption" : "Alan Turing, Age 16",
+                "credit": "Author Unknown",
+                "thumbnail" : "http://www.turingarchive.org/images/noflash/k7/4/k7.4.jpg"
+            }, 
+            "start_date": {
+                "year": "1928"
+            },
+            "text" : {
+                "headline" : "<a href='https://en.wikipedia.org/wiki/Alan_Turing'>Alan Turning</a> first laid out the idea of 'thinking machines'",
+                "text" : "He expressed the idea while working for the British government during WWII. Turing also proposed the first test to determine whether a machine was sentient or not."
+            }
+        },
+
+        {
+            "media": {
+                "url": "https://historyofinformation.com/images/Screen_Shot_2020-09-09_at_6.46.46_AM_thumb.png",
+                "caption": "Warren S. McCulloch and Walter Pitts",
+                "thumbnail": "https://historyofinformation.com/images/Screen_Shot_2020-09-09_at_6.46.46_AM_thumb.png",
+                "credit": "www.semanticscholar.org"
+            },
+            "start_date": {
+                "year": "1943"
+            },
+            "text":{
+                "headline": "<a href='https://web.csulb.edu/~cwallis/382/readings/482/mccolloch.logical.calculus.ideas.1943.pdf'>MuCulloch and Pits Prove Binary Neurons Can Do Logic</a>",
+                "text": "Warren McCulloch and Walter Pits published the paper 'A Logical Calculus of the Ideas Immanent in Nervous Activity' in which they demonstrate that binary neurons can perform logic.  It is theorized that this logic could be built up to enable higher order 'thinking' by machines."
+            }
+
+        },
+
+        {
+            "media" : {
+                "url": "https://cdnmedhall.ca/sites/default/files/2021-03/Donald%20Hebb%20Feature.jpg",
+                "thumbnail": "https://cdnmedhall.ca/sites/default/files/2021-03/Donald%20Hebb%20Feature.jpg",
+                "credit": "Canadian Medical Hall of Fame",
+                "caption": "Donald O Hebb, PhD"
+            }, 
+            "start_date": {
+                "year": "1947"
+            },
+            "text": {
+                "headline": "<a href='https://en.wikipedia.org/wiki/Hebbian_theory'>Hebbian Synaptic Plasticity</a>",
+                "text": "Dr. Hebb posits that the simultanious activation of cells leads stronger connections between the neurons.  Sometimes summed up as 'Neurons that fire together, wire together' This idea has implications for the artificial neurons used in Artificial Neural Networks (ANNs) as well as the organic neurons found in animal brains."
+            }
+        },
+
+        {
+            "media": {
+                "url": "https://cdn.theatlantic.com/thumbor/8wC9gaPI04bY3Cxp0lbU8VaY-cc=/86x21:1341x962/1200x900/media/img/mt/2014/06/wiener_blackboard_copy/original.png",
+                "thumbnail": "https://cdn.theatlantic.com/thumbor/8wC9gaPI04bY3Cxp0lbU8VaY-cc=/86x21:1341x962/1200x900/media/img/mt/2014/06/wiener_blackboard_copy/original.png",
+                "caption": "Norbert Wiener at MIT",
+                "credit": "MIT"
+            },
+            "start_date": {
+                "year": "1948"
+            },
+            "text": {
+                "headline": "<a href='https://www.theatlantic.com/technology/archive/2014/06/norbert-wiener-the-eccentric-genius-whose-time-may-have-finally-come-again/372607/'> Norbert Wiener</a> creates the field of <a href='https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine'>Cybernetics,</a> and the notion of the '<a href='https://en.wikipedia.org/wiki/Norbert_Wiener#Wiener_filter'>Optimal Filter</a>'",
+                "text": "Dr. Wiener creates the '<a href='https://en.wikipedia.org/wiki/Norbert_Wiener#Wiener_filter'>Wiener Filter</a>', a mathematical method for signal processing that attempts to reduce noise and predict the future based on incomplete information about past events.  This approach was originally used during WWII to make anti-aircraft artillery in Brittan more accurate.  However, the technique is very general and can be applied to any system attempting to make predictions about future events based on past data."
+            }
+        },
+
+        {
+            "media": {
+                "url": "https://news.cornell.edu/sites/default/files/styles/full_size/public/2019-09/0925_rosenblatt6.jpg?itok=rsC9rptw",
+                "thumbnail": "https://news.cornell.edu/sites/default/files/styles/full_size/public/2019-09/0925_rosenblatt6.jpg?itok=rsC9rptw",
+                "caption": "Frank Rosenblatt (right) works on the Perceptron", 
+                "credit": "Division of Rare and Manuscript Collections "
+            },
+            "start_date": {
+                "year": "1957"
+            },
+            "text": {
+                "headline": "Frank Rosenblatt Creates the <a href='https://en.wikipedia.org/wiki/Frank_Rosenblatt#Perceptron'>Perceptron</a>",
+                "text": "The Perceptron was a machine that could learn from experience using an early artifical neuron that could detect different features in the input data"
+            }
+
+        },
+
+        {
+            "media": {
+                "url": "https://miro.medium.com/max/1838/1*DWGhWuK5Ly-hcGeclwhTgQ.png",
+                "thumbnail": "https://miro.medium.com/max/1838/1*DWGhWuK5Ly-hcGeclwhTgQ.png",
+                "caption": "Participants in the Dartmouth Summer Research Project",
+                "credit": "Margaret Minsky"
+            },
+            "start_date": {
+                "year": "1956"
+            },
+            "text": {
+                "headline": "<a href='https://pemey.medium.com/whos-that-kid-laughing-with-high-socks-in-the-middle-of-summer-7801a34feeef'>Dartmouth Summer Research Project</a>",
+                "text": "During the summer of 1956 John McCarthy, a professor of Mathematics at Dartmouth University brought together a number of his colleagues to participate in a summer workshop on the topic of Artificial Intelligence.  It was in fact at this workshop that the term 'Artificial Intelligence' was accepted as the name for the field.  This workshop is considered to be the birth event of the modern field of AI, and many of the early luminaries of the field participated."
+            }
+        },
+
+        {
+            "media": {
+                "url": "https://isl.stanford.edu/~widrow/Bernie.gif",
+                "thumbnail": "https://isl.stanford.edu/~widrow/Bernie.gif",
+                "caption": "Bernard 'Bernie' Widrow",
+                "credit": "Standford University"
+            },
+            "start_date": {
+                "year": "1961"
+            }, 
+            "text": {
+                "headline": "Bernie Widrow Creates <a href='https://en.wikipedia.org/wiki/ADALINE'>ADALINE</a>",
+                "text": "Bernard Widrow was a pioneer of machine learning inventing several key techniques including the <a href='https://en.wikipedia.org/wiki/Least_mean_squares_filter'>Least Mean Squares Filter</a>, one of the first stochastic gradient descent methods.  This lead him to create ADALINE, an early single layer neural-network, and develop the backproagation technique."
+            }
+        },
+
+        {
+            "media": {
+                "url": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/201608/Minsky-Papert-1971-cSolomon.jpg?itok=ck9Q22dv",
+                "thumbnail": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/201608/Minsky-Papert-1971-cSolomon.jpg?itok=ck9Q22dv",
+                "caption": "Mavin Minsky and Seymour Papert",
+                "credit": "MIT"
+            },
+            "start_date": {
+                "year": "1969"
+            }, 
+            "text": {
+                "headline": "Minsky and Papert Publish the Book '<a href='https://en.wikipedia.org/wiki/Perceptrons_(book)'>Perceptrons</a>'",
+                "text": "The book outlines the limitations of the machine learning approach used in Perceptrons, significantly reducing optimsm and enthusasim for the field"
+            }
+        },
+
+        {
+            "media": {
+                "url": "https://media.wiley.com/product_data/coverImage300/93/04710566/0471056693.jpg",
+                "thumbnail": "https://media.wiley.com/product_data/coverImage300/93/04710566/0471056693.jpg",
+                "caption": "Second Edition of Richard O. Duda and Peter E. Hart's book on Statistical Pattern Classification",
+                "credit": "Wiley"
+            },
+            "start_date": {
+                "year": "1973"
+            },
+            "text": {
+                "headline": "Duda and Hart Publish '<a href='https://www.amazon.com/Pattern-Classification-Pt-1-Richard-Duda/dp/0471056693/ref=sr_1_1?dchild=1&keywords=Duda+%26+Hart+Pattern+Classification&qid=1626669106&sr=8-1'>Statistical Pattern Classification</a>'",
+                "text": "The book is the seminal work on the subject, much of wich underlies classical Machine Learning techniques"
+            }
+        },
+
+        {
+            "media": {
+                "url": "https://i2.wp.com/bdtechtalks.com/wp-content/uploads/2018/11/AI-winter.jpg?fit=4500%2C3000&ssl=1",
+                "thumbnail": "https://i2.wp.com/bdtechtalks.com/wp-content/uploads/2018/11/AI-winter.jpg?fit=4500%2C3000&ssl=1",
+                "credit": "Depositphotos"
+            },
+            "start_date": {
+                "year" : "1973"
+            },
+            "end_date": {
+                "year": "1980"
+            },
+            "text":{
+                "headline": "The first AI Winter",
+                "text": "The field of Artificial Intelligence faced three major challenges through the 1970s that caused fuding to the field to be reduced, and work to slow down: <br /><br /> &bull; <strong>Lack of compute power:</strong> The computers of the 1970s just weren't powerful enough to deal with the workloads artificial intelligence demanded <br /> &bull; <strong>Lack of data:</strong> Large datasets, particularly labled data sets on which to train machine learning models were not available at the time. <br /> &bull; <strong>Combinatorial Explosion</strong> As AI was asked to do more complex tasks, the number of variables it need to be trained on quickly exploded to then unmanable levels.  The lack of both data and compute power made this obsticle effectively insurmountable."
+            }
+        },
+
+        {
+            "media": {
+                "url": "https://sites.google.com/site/mrstevensonstechclassroom/_/rsrc/1382374591344/hl-topics-only/4a-robotics-ai/5-expert-systems/expert%20system.png",
+                "thumbnail": "https://sites.google.com/site/mrstevensonstechclassroom/_/rsrc/1382374591344/hl-topics-only/4a-robotics-ai/5-expert-systems/expert%20system.png",
+                "caption": "Diagram of an expert system",
+                "credit": "mrstevensonstechclassroom"
+            },
+            "start_date": {
+                "year": "1980"
+            },
+            "end_date": {
+                "year": "1990"
+            },
+            "text": {
+                "headline": "Expert Systems Revolutionize Business Processes",
+                "text": "Through the 1980s as the processing power of computers slowly increased and databases became more powerful, expert systems became a staple for large businesses.  Expert systems have a knowledge base created by expert users and an inference engine.  Non-expert users would pose queries to the system, which would use the knowledge base to match the queries with likely answers.  Knowledge became the focus of AI during this period."
+            }
+
+        },
+
+        {
+            "media": {
+                "url": "https://4.bp.blogspot.com/-Osjxe1s9Eg0/Wo8EwPjVCEI/AAAAAAAAKGo/rPg6HWcO1BQfCFSDp6ij5Q1RjJWkm9liwCLcBGAs/s1600/ai-winter.jpg",
+                "thumbnail": "https://4.bp.blogspot.com/-Osjxe1s9Eg0/Wo8EwPjVCEI/AAAAAAAAKGo/rPg6HWcO1BQfCFSDp6ij5Q1RjJWkm9liwCLcBGAs/s1600/ai-winter.jpg",
+                "caption" : "The AI Chill",
+                "credit" : "<a href='http://jimsinur.blogspot.com/2018/02/no-more-ai-winters-really.html'>jimsinur</a>"
+            },
+            "start_date": {
+                "year": "1987"
+            }, 
+            "end_date": {
+                "year": "1993"
+            },
+            "text": {
+                "headline": "The AI Chill",
+                "text": "From the late 1980s through the early 1990s AI experienced a second slowdown in research.  The hardware that ran AI systems at the time had become highly specialized and costly to maintian.  Moreover, the world was moving into an era of personal computers rather than large centralized computer systems."
+            }
+        },
+
+        {
+            "media": {
+                "url": "https://cdn.vox-cdn.com/thumbor/6cAIuVNzla3aY76JOY3o5cuALlg=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21699759/vpavic_200805_4131_0086_1.jpg",
+                "thumbnail": "https://cdn.vox-cdn.com/thumbor/6cAIuVNzla3aY76JOY3o5cuALlg=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/21699759/vpavic_200805_4131_0086_1.jpg",
+                "caption": "Smartphones created an explosion in the number, type and depth of available datasets",
+                "credit": "Photo by Vjeran Pavic / The Verge"
+            },
+            "start_date": {
+                "year": "1993"
+            }, 
+            "end_date": {
+                "year": "2011"
+            },
+            "text": {
+                "headline": "AI Comes Into Its Own",
+                "text": "During the mid 1990s to early 2010s processing power and parallelism increased rapidly providing the long awiated compute power to handle AI workloads.  First ubiquitous personal computers and widespread access to the Internet, and later smartphones lead to much larger, more detailed and better labled datasets on which to train AI systems.  Machine learning algorithms are optomized and the applications of AI begin to once again rapidly expand."
+            }
+        }
+
+    ]
+
+}
